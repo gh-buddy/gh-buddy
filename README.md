@@ -8,5 +8,4 @@
 
 ## Stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=gh-buddy)](https://github.com/anuraghazra/github-readme-stats)
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 [![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gh-buddy&langs_count=5&hide_title=true&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
